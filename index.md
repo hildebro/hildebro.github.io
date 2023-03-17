@@ -29,27 +29,45 @@ Home automation and cloud server managment
 
 ### Occupation
 
-- Working student at [DAA GmbH](https://www.daa.net/) for 1,5 years
-- Working student at [portrix.net GmbH](https://portrix.net/ceemes/de/home/) for 2,5 years
+- Working student at __[DAA GmbH](https://www.daa.net/)__ for 1,5 years
+- Working student at __[portrix.net GmbH](https://portrix.net/ceemes/de/home/)__ for 2,5 years
 - Mini-job at McDonald's during high school for roughly 1 year
 
 ### Education
 
-2005 - 2014 __Hermann-Tast-Schule, Husum__
+2018 - 2020 __Universität Hamburg__
+
+- (unfinished) Master's degree in computer science
 
 2014 - 2018 __Universität Hamburg__
 
 - Bachelor's degree in computer science
 
-2018 - 2020 __Universität Hamburg__
+2005 - 2014 __Hermann-Tast-Schule Husum__
 
-- (unfinished) Master's degree in computer science
+- Abitur
 
 
 ### Attended
 
 2022 Devops conference, Barcelona
 
+
+## Language skills
+
+German and English
+
+
+## Volunteering
+
+2022 - 2023 __Industrial Workers of the World (IWW)__ 
+
+- Administrative secretary
+
+
+2013 - 2014 __Leo Club Husum__
+
+- General voluteering staff
 
 
 <!-- ### Footer

@@ -29,7 +29,7 @@ Home automation and cloud server managment
 
 - Working student at [DAA GmbH](https://www.daa.net/) for 1,5 years
 - Working student at [portrix.net GmbH](https://portrix.net/ceemes/de/home/) for 2,5 years
-- Mini-job at McDonald's during high school for a bit over 1 year 
+- Mini-job at McDonald's during high school for roughly 1 year
 
 
 ## Education
@@ -46,12 +46,8 @@ Home automation and cloud server managment
 
 
 
-## Awards
+## Participations
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 
 
@@ -59,13 +55,13 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Occupation
 
-`1600`
+1600
 __Royal Mint__, London
 
 - Warden
 - Minted coins
 
-`1600`
+1600
 __Lucasian professor of Mathematics__, Cambridge University
 
 

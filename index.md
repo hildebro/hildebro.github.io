@@ -23,7 +23,7 @@ Software architecture design and backend development
 
 ### Hobby projects
 
-Home automation and cloud server managment
+Home automation and cloud server management
 
 
 ## Previously
@@ -73,7 +73,7 @@ Home automation and cloud server managment
 
 2013 - 2014 __Leo Club Husum__
 
-- General voluteering staff
+- General volunteering staff
 
 
 <!-- ### Footer

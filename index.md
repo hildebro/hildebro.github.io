@@ -12,27 +12,28 @@ Full Stack Engineer and Linux Enthusiast
 
 ## Currently
 
-Working as a fullstack engineer at [DAA GmbH](https://www.daa.net/) since October 2020
+### Occupation
 
+Fullstack engineer at [DAA GmbH](https://www.daa.net/) since October 2020
 
 ### Specialized in
 
 Software architecture design and backend development
-
 
 ### Hobby projects
 
 Home automation and cloud server managment
 
 
-### Past occupations
+## Previously
+
+### Occupation
 
 - Working student at [DAA GmbH](https://www.daa.net/) for 1,5 years
 - Working student at [portrix.net GmbH](https://portrix.net/ceemes/de/home/) for 2,5 years
 - Mini-job at McDonald's during high school for roughly 1 year
 
-
-## Education
+### Education
 
 2005 - 2014 __Hermann-Tast-Schule, Husum__
 
@@ -45,27 +46,14 @@ Home automation and cloud server managment
 - (unfinished) Master's degree in computer science
 
 
+### Attended
 
-## Participations
-
-
-
-
-
-
-## Occupation
-
-1600 __Royal Mint__, London
-
-- Warden
-- Minted coins
-
-1600 __Lucasian professor of Mathematics__, Cambridge University
+2022 Devops conference, Barcelona
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2023 -->
 
 

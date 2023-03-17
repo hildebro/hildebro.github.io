@@ -4,6 +4,7 @@ title: Alexander Hildebrandt's CV
 ---
 # Alexander Hildebrandt
 Full Stack Engineer and Linux Enthusiast
+28 years old, based in Hamburg, Germany
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/hildebro/">LinkedIn</a>

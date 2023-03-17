@@ -50,12 +50,17 @@ Home automation and cloud server managment
 
 ### Attended
 
-2022 Devops conference, Barcelona
+- 2022 Devops conference, Barcelona
+
+
+## IT skills
+
+- PHP, Java, SQL, Rust, Python, Git, LaTeX, Ansible, Linux, Bash
 
 
 ## Language skills
 
-German and English
+- German and English
 
 
 ## Volunteering

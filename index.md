@@ -31,7 +31,7 @@ Home automation and cloud server managment
 
 - Working student at __[DAA GmbH](https://www.daa.net/)__ for 1,5 years
 - Working student at __[portrix.net GmbH](https://portrix.net/ceemes/de/home/)__ for 2,5 years
-- Mini-job at McDonald's during high school for roughly 1 year
+- Mini-job at McDonald's during high school for 1 year
 
 ### Education
 

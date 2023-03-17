@@ -55,14 +55,12 @@ Home automation and cloud server managment
 
 ## Occupation
 
-1600
-__Royal Mint__, London
+1600 __Royal Mint__, London
 
 - Warden
 - Minted coins
 
-1600
-__Lucasian professor of Mathematics__, Cambridge University
+1600 __Lucasian professor of Mathematics__, Cambridge University
 
 
 

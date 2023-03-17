@@ -1,44 +1,48 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alexander Hildebrandt's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alexander Hildebrandt
+Full Stack Engineer and Linux Enthusiast
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/hildebro/">LinkedIn</a>
+| <a href="http://github.com/hildebro">Github</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as a fullstack engineer at [DAA GmbH](https://www.daa.net/) since October 2020
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software architecture design and backend development
 
 
-### Research interests
+### Hobby projects
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Home automation and cloud server managment
+
+
+### Past occupations
+
+- Working student at [DAA GmbH](https://www.daa.net/) for 1,5 years
+- Working student at [portrix.net GmbH](https://portrix.net/ceemes/de/home/) for 2,5 years
+- Mini-job at McDonald's during high school for a bit over 1 year 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+2005 - 2014 __Hermann-Tast-Schule, Husum__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+2014 - 2018 __Universität Hamburg__
 
-- Sizar
+- Bachelor's degree in computer science
 
-`1667 - death`
-__Trinity College, Cambridge__
+2018 - 2020 __Universität Hamburg__
 
-- Fellow
+- (unfinished) Master's degree in computer science
 
 
 
@@ -51,24 +55,6 @@ Associate, *French Academy of Science*, Paris, France
 
 
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation

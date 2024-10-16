@@ -51,17 +51,18 @@ Home automation and cloud server management
 
 ### Attended
 
+- 2023 International PHP Conference Berlin
 - 2022 Devops conference, Barcelona
-
 
 ## IT skills
 
-- PHP, Java, SQL, Rust, Python, Git, LaTeX, Ansible, Linux, Bash
+- PHP, Java, SQL, Rust, Python, Git, LaTeX, Ansible, Linux, Bash, Vim
 
 
 ## Language skills
 
-- German and English
+- German (native)
+- English (proficiency)
 
 
 ## Volunteering
@@ -78,6 +79,6 @@ Home automation and cloud server management
 
 <!-- ### Footer
 
-Last updated: March 2023 -->
+Last updated: October 2024 -->
 
 

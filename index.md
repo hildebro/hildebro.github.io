@@ -15,7 +15,7 @@ Full Stack Engineer and Linux Enthusiast
 
 ### Occupation
 
-Fullstack engineer at __[DAA GmbH](https://www.daa.net/)__ since October 2020
+Fullstack engineer and Project Management Assistance at __[DAA GmbH](https://www.daa.net/)__ since October 2020
 
 ### Specialized in
 

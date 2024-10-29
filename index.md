@@ -9,7 +9,7 @@ Full Stack Engineer and Linux Enthusiast
 <div id="webaddress">
   <a href="https://www.linkedin.com/in/hildebro/">LinkedIn</a>
 | <a href="http://github.com/hildebro">Github</a>
-  <a href="mailto:alex@hilde.dev">Email</a>
+| <a href="mailto:alex@hilde.dev">Email</a>
 </div>
 
 ## Currently

@@ -7,8 +7,9 @@ Full Stack Engineer and Linux Enthusiast
 29 years old, based in Hamburg, Germany
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/hildebro/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/hildebro/">LinkedIn</a>
 | <a href="http://github.com/hildebro">Github</a>
+  <a href="mailto:alex@hilde.dev">Email</a>
 </div>
 
 ## Currently
@@ -38,7 +39,7 @@ Home automation and cloud server management
 
 2018 - 2020 __Universität Hamburg__
 
-- (unfinished) Master's degree in computer science
+- Master's degree in computer science (did not complete in favor of joining the industry early)
 
 2014 - 2018 __Universität Hamburg__
 
@@ -51,18 +52,22 @@ Home automation and cloud server management
 
 ### Attended
 
-- 2023 International PHP Conference Berlin
-- 2022 Devops conference, Barcelona
+- 2023 International PHP Conference, Berlin
+- 2022 Devops Conference, Barcelona
 
 ## IT skills
 
-- PHP, Java, SQL, Rust, Python, Git, LaTeX, Ansible, Linux, Bash, Vim
+### High proficiency 
+- PHP, Java, SQL, Git, Linux, Vim
+
+### Base proficiency
+- Rust, Python, LaTeX, Ansible, Bash
 
 
 ## Language skills
 
 - German (native)
-- English (proficiency)
+- English (near-native)
 
 
 ## Volunteering
@@ -70,11 +75,15 @@ Home automation and cloud server management
 2022 - 2023 __Industrial Workers of the World (IWW)__ 
 
 - Administrative secretary
+- Conference management
+- Demonstration management
 
 
 2013 - 2014 __Leo Club Husum__
 
 - General volunteering staff
+- Working with children
+- Manual labor
 
 
 <!-- ### Footer
